@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SALES TOP</string>
+    <string name="welcome_to_sales">Welcome to Sales Top A Platform To Manage Real Estate Needs</string>
+    <string name="hello">Hello!</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_sales_top_a_platform_to_manage_real_estate_needs">Welcome to Sales Top A Platform To Manage Real Estate Needs</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="registration_portal">Registration portal</string>
+    <string name="log_in">Log in</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name1">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="dd_mm_yy">DD/MM/YY</string>
+    <string name="username">Username</string>
+    <string name="already_a_member">Already a member ?</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="todo11">todo11</string>
+    <string name="or_via_social_media">Or via social media</string>
+    <string name="todo13">TODO</string>
+    <string name="todo21">TODO21</string>
+    <string name="friends">Friends</string>
+    <string name="friend_list">Friend List</string>
+</resources>
